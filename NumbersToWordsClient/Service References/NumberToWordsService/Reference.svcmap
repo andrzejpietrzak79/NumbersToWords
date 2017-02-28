@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="00ed0576-8bb3-43ba-84c2-2d9d99e1dae4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="bce81cb9-eb26-40f1-997a-9d53b5c04f91" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="0c7f28ec-b197-4884-a71b-dd5a6be5b4de" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="315474d5-8484-425c-a29d-1f42b5f15829" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="2b413033-5221-4369-a00a-3aff929eee2b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="a9cef3e0-a44a-4cb7-a0c7-8921b5458c04" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NumbersToWordsWCFServer/Service1/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
